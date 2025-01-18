@@ -33,10 +33,7 @@ Follow these steps to set up the project:
    Ensure Python is installed on your system. You can download it from [python.org](https://www.python.org/).
 
 3. **Install Required Libraries**:
-   Install the necessary Python libraries by running:
-   ```
-   pip install -r requirements.txt
-   ```
+   There are no necessary Python libraries you would need to install.
 
 4. **Convert Python Script to Executable**:
    - Install **Auto Py to Exe**:
